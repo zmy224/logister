@@ -40,6 +40,23 @@ html,body,#app{
     font-size: 30px;
   }
 }
+// v-loading 样式
+.elrelative {
+  position:relative;
+}
+.divabsolute{
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background:#fff;
+  z-index:999;
+  width:100%;
+ padding-top:100px;
+  height:100%;
+  text-align:center;
+  position: absolute;
+}
 
  
 }

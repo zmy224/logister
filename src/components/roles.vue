@@ -11,7 +11,7 @@
      </div>
     <!-- </el-card> -->
 
-    <div class="table"  v-customLoading="loading"
+    <div class="table"  v-loading="loading"
      >
 
         <el-table
